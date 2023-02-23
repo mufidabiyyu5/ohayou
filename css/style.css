@@ -1320,9 +1320,9 @@ nav .breadcrumb .active {
     color: #216BC6;
   }
   .client img {
-    max-width: 48px;
-    max-height: 48px;
-    margin: 0 2rem 1rem;
+    max-width: 40px;
+    max-height: 40px;
+    margin: 0 1rem 0.5rem;
   }
   .head-bg {
     background: url(../assets/images/bg-contact.png);
